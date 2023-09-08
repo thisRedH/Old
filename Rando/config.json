@@ -1,0 +1,10 @@
+{
+  "version": "2.1",
+  "language": "en",
+  "configurations": [
+    {
+      "dir": "F:\\Dateien\\Programmieren\\c# Projects\\Rando",
+      "mode": "filesandfolder"
+    }
+  ]
+}

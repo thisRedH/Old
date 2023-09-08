@@ -1,0 +1,9 @@
+config.json:
+    - version:                                (just for info)
+    - language: - ""                          (language from your pc)
+                - [en, de, fr, nl, cy, es, fi, ga, it, ja, no, pl, pt, ro, ru, sv, uk, yi, zh]
+    - configurations:
+        - dir = {Directory}                   {Example: C:\\Users\\RedH\\Documents\\Games}
+        - mode = - filesandfolder,            (Files and Folders in selected Directory)
+                 - files,                     (only Files in selected Directory)
+                 - folder                     (only Folders in selected Directory)
